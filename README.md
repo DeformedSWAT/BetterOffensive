@@ -1,6 +1,9 @@
 # Better Offensive
 Enhanced Panorama UI for CS:GO
 
+> [!WARNING]
+> This project has been discontinued and has been replaced by the [Global Retake Client](https://github.com/GlobalRetake/Client).
+
 ### [![Discord](https://img.shields.io/discord/1436143382723297350?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/nVFFMC9QyV)
 
 ## Installation
